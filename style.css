@@ -1,0 +1,19 @@
+html {
+    background-color: silver;
+}
+
+h1, h2, h3, h4, p {
+    text-align: center;
+}
+
+.flex-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.list, .head-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
